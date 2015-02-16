@@ -1,0 +1,27 @@
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.exe
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.pdb
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Form1.resources
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Properties.Resources.resources
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.exe
+c:\my documents\visual studio 2010\Projects\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.pdb
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.exe
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.pdb
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.exe
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.pdb
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Form1.resources
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Properties.Resources.resources
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Workarea\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.exe
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.pdb
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.exe
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\bin\Debug\EbertzMastermind.pdb
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Form1.resources
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\EbertzMastermind.Properties.Resources.resources
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\william\Documents\Visual Studio 2010\Projects\EbertzMastermind\EbertzMastermind\EbertzMastermind\EbertzMastermind\obj\x86\Debug\GenerateResource.write.1.tlog
